@@ -1,3 +1,11 @@
 h1 {
   color:red;
+  text-align: center;
+}
+iframe {
+  padding-left: 26%;
+}
+
+h2,p {
+  text-align: center;
 }
