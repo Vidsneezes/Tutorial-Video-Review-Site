@@ -16,20 +16,17 @@ h2 {
   color: white;
 }
 
-p {
-  text-align: center;
-  height: : 10px;
-  padding: 20px
+div.container4 {
+ background-color: white;
+  color: black;
+  height: 6em;
+  position: relative;
 }
 
-div.container4 p {
-  margin: 0;
-  background: white;
-  position: absolute;
-  top: 90%;
-  left: 50%;
-  height: 50px;
-  width: 500px;
-  margin-right: 50%;
-  transform: translate(-50%,-50%);
+p.blocktext {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 26em;
+  overflow: hidden;
 }
