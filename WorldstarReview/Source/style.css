@@ -16,7 +16,7 @@ h2 {
 }
 
 div.container4 {
-background-color: white;
+ background-color: white;
   color: black;
   height: 6em;
   position: relative;
@@ -26,5 +26,6 @@ p.blocktext {
   text-align: center;
   margin-left: auto;
   margin-right: auto;
-  width: 26em
+  width: 26em;
+  overflow: hidden;
 }
